@@ -34,9 +34,9 @@ flask startproject demo_pj
 ```
 该命令执行完成之后就会在当前目录创建`demo_pj`的项目目录，其具体结构如下：
 ```bash
-|-- demo_pj
+|-- myapp
     |-- apps
-          |-- demo_pj
+          |-- myapp
                 |-- controller
                     |-- __init__.py
                 |-- model
